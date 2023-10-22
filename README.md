@@ -33,7 +33,6 @@ We derive explicit finite-sample guarantees for both approaches, and show that b
 - `data.py` - generate synthetic data. 
 - `config.py` - simulation parameters.
 - `evaluate.py` - performance evauation
-- `truncationPSGD` - the implementation of the algorithm 1 in our paper.
 - `main.py` - main algorihtm.
 - `method.py`- including mutual information tester, chow-liu tree algorithm, and pc-tree algorithm
 
