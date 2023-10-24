@@ -7,7 +7,7 @@
 # Optimal Estimation of Gaussian (Poly)trees
 
  This is an implementation of the following paper:
- "[Optimal Estimation of Gaussian (Poly)trees]()" arXiv preprint arXiv (2023).
+ "Optimal Estimation of Gaussian (Poly)trees".
 
 ## Introduction
 We develop optimal algorithms for learning undirected Gaussian trees and directed Gaussian polytrees from data. We consider both problems of distribution learning (i.e. in KL distance) and structure learning (i.e. exact recovery).
